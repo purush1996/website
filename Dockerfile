@@ -1,5 +1,5 @@
 
 
-FROM purush1996/webapp
+FROM purush1996/website
 ADD . /var/www/html
 
